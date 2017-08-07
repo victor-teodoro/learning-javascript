@@ -1,0 +1,6 @@
+const gulp = require('gulp');
+
+// Gulp tasks go here
+gulp.task('default', function() {
+    
+});
